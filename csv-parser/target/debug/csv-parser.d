@@ -1,0 +1,1 @@
+/Users/corierhodes/GitHub/csv-parser/target/debug/csv-parser: /Users/corierhodes/GitHub/csv-parser/src/fh.rs /Users/corierhodes/GitHub/csv-parser/src/main.rs /Users/corierhodes/GitHub/csv-parser/src/menu.rs /Users/corierhodes/GitHub/csv-parser/src/types.rs /Users/corierhodes/GitHub/csv-parser/src/util.rs
